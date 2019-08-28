@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dado</string>
+    <string name="btn_dado">Rolar Dado</string>
+    <string name="textViewResultado">Resultado</string>
+</resources>
